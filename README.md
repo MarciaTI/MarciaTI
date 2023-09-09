@@ -1,7 +1,7 @@
 - 👩 Hi, I’m @MarciaTI
 - 💻 I’m interested to become a professional in the IT area. 
-- I’m currently learning Java, JavaScript, CSS and HTML at Alura online School. The repository: Codificador e Decodificador, was my first challenge. 
-- I'm also studing to become a Systems Analyst and Developer and backEnd.
+- I’m learning Java, JavaScript, CSS and HTML at Alura online School. The repository: Codificador e Decodificador, was my first challenge. 
+- Currently I´m studing to graduate Systems Analyst and Developer.
 - I’m also interested to be in contact with people mad for coding and knowledge exchanges...😎
 - 📫 How to reach me ...
 
