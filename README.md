@@ -1,11 +1,8 @@
 - 👩 Hi, I’m @MarciaTI
 - 💻 I’m interested to become a professional in the IT area. 
-- I’m learning Java, JavaScript, CSS and HTML at Alura online School. The repository: Codificador e Decodificador, was my first challenge. 
-- Currently I´m studing to graduate Systems Analyst and Developer.
-- I’m also interested to be in contact with people mad for coding and knowledge exchanges...😎
+- I’m learning Java, JavaScript, CSS and HTML at Alura online School.
+- Also, I intend to complete my degree in Analysis and Development of Systems by December 2024.
+- It's been a challenge for me to seek a position in the IT field. But I'm fascinated by this experience. Love tech and innovation.
+- Another interest I have is getting in contact with people who are crazy about code and open to exchanging knowledge...😎
 - 📫 How to reach me ...
 
-<!---
-MarciaTI/MarciaTI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
