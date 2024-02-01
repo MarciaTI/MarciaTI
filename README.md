@@ -6,7 +6,7 @@
 
 Hello!
 My name is Marcia!
-I live in Brazil. Post-graduated in HR  and Bachelor of Portuguese/English languages. Actually, I am studing to complete degree in Analysis and Development of Systems. I love tech and innovation. Please, find here some of my initial code repository.
+I live in Brazil. Post-graduated in HR  and Bachelor of Portuguese/English languages. Actually, I am studing to complete degree in Analysis and Development of Systems. I love tech and innovation. Welcome to my github repository!
 
 
 About me:
