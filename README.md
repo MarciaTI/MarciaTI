@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=120&color=FF69B4&text=My%20Code%20Work%20Repository%20&descAlign=80&descAlignY=85&descSize=-1&animation=blink&textBg=false&fontSize=35&fontColor=0000FF&strokeWidth=3&reversal=false&section=header&fontAlign=49&fontAlignY=76&stroke=191970"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=lucida+handwriting&weight=100&size=15&duration=4970&pause=1166&color=0000CD&repeat=false&random=false&width=664&lines=+++++%E2%80%9CThere+is+nothing+like+a+dream+to+create+the+future.%E2%80%9D++++Victor+Hugo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=lucida+handwriting&weight=100&size=12&duration=4970&pause=1166&color=0000CD&repeat=false&random=false&width=664&lines=+++++%E2%80%9CThere+is+nothing+like+a+dream+to+create+the+future.%E2%80%9D++++Victor+Hugo)](https://git.io/typing-svg)
 
 
 Hello! 🖖  
